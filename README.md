@@ -1,7 +1,8 @@
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-16-46-31" src="https://github.com/user-attachments/assets/7e6ccd54-ec2f-42c5-9321-d00e77375278" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-16-46-53" src="https://github.com/user-attachments/assets/fa452a9b-4287-4068-ae1e-da795d907bf0" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-16-47-25" src="https://github.com/user-attachments/assets/794b8ff0-319a-42c5-b697-ecd2f6c3715d" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-17-55-58" src="https://github.com/user-attachments/assets/de07a3be-5ee8-4db7-962f-8b10413b17e0" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-17-26-18" src="https://github.com/user-attachments/assets/910ec759-83a6-43e9-86ca-1263a18a6cde" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-17-15-08" src="https://github.com/user-attachments/assets/04bac363-1aa6-4826-ae39-3fb37cba78d0" />
-<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-17-49-35" src="https://github.com/user-attachments/assets/7297ce36-d2b0-4025-b4da-241b3fa10965" />
+<img width="1920" height="1002" alt="Ubuntu 64 bits-2025-11-23-16-46-31" src="https://github.com/user-attachments/assets/ebee34f4-0319-4876-a984-0cd309d58f4d" />
+<img width="1920" height="1009" alt="Ubuntu 64 bits-2025-11-23-16-46-53" src="https://github.com/user-attachments/assets/fd96b1b6-b7a4-4c5f-8605-9163f1218eb6" />
+<img width="1920" height="1011" alt="Ubuntu 64 bits-2025-11-23-16-47-25" src="https://github.com/user-attachments/assets/53a93ff1-c941-495f-b34c-bbba3d634951" />
+<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-16-56-47" src="https://github.com/user-attachments/assets/332ad162-f119-4e4d-b3ea-16cc26fc7166" />
+<img width="1920" height="1080" alt="Ubuntu 64 bits-2025-11-23-17-55-58" src="https://github.com/user-attachments/assets/f1114015-8ed0-43a7-910b-ce832d82af42" />
+<img width="1920" height="1011" alt="Ubuntu 64 bits-2025-11-23-17-26-18" src="https://github.com/user-attachments/assets/3efba99a-00ff-4959-9265-1587a5514cc9" />
+<img width="1920" height="1013" alt="Ubuntu 64 bits-2025-11-23-17-15-08" src="https://github.com/user-attachments/assets/2d8938f8-0351-4286-95a2-bfc71b6323af" />
+<img width="1920" height="1013" alt="Ubuntu 64 bits-2025-11-23-17-49-35" src="https://github.com/user-attachments/assets/edfcc1eb-1b84-4147-a328-a47990f925d6" />
